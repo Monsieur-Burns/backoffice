@@ -1,0 +1,92 @@
+footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  text-align: center;
+  color: #ffffff;
+}
+
+#sidebar {
+  font-size: 1.2rem;
+}
+
+div.titre h3 {
+  padding-left: 215px;
+}
+
+li.dropdown {
+  list-style-type: none;
+}
+
+td a span {
+  text-decoration: none!important;
+}
+
+a {
+  text-decoration: none!important;
+}
+
+td img {
+  width: 80px;
+  height: auto;
+}
+
+tr {
+  word-break: break-all;
+}
+
+td.tabID {
+    width: 30px;
+    text-align: center;
+}
+
+td.tabTitre {
+    width: 100px;
+}
+
+td.tabTitreCat {
+    width: 150px;
+}
+
+td.tabActionsCat {
+    width: 150px;
+}
+
+td.tabActions {
+    width: 80px;
+}
+
+
+td.tabNameAct {
+  width: 150px;
+}
+
+td.tabDobAct {
+  width: 120px;
+}
+
+td.tabCityAct {
+  width: 120px;
+}
+
+footer {
+  background-color: #2b3e50;
+}
+
+button.ajout {
+  margin-right: 50px;
+  margin-top: -65px;
+}
+
+div.form-group button {
+  padding-bottom: 15px;
+}
+
+div.form-group button.cate {
+  padding-bottom: 9px;
+}
+
+
+div#blockLogin {
+  margin-top: 200px;
+}

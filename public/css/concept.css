@@ -1,0 +1,11 @@
+footer {
+  position: fixed;
+  bottom: 16px;
+  width: 100%;
+  text-align: center;
+  color: #ff0000;
+}
+
+#sidebar {
+  font-size: 1.2rem;
+}
